@@ -10,3 +10,5 @@ Minden osztályról tároljuk az osztály nevét és létszámát. Az osztály n
 a) Tervezd meg a feladatnak megfelelő ER-modellt, és válaszd meg a kulcsokat!
 
 b) Jelöld az egyedtípusok közötti kapcsolatokat, és add meg azok számosságát!
+
+C, ennek alapján ezt írd meg SQL-ben is!
